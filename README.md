@@ -9,7 +9,7 @@
 ## ⚙ How to Setup
 - You need to **create** a [Drver Kernel](https://www.youtube.com/watch?v=xh5cCUuQfL8&t=1090s&ab_channel=EthanEDITS) and when it's done you put the Source in the Driver folder.
 - It's time for fun / use it at your own risk 
-- Other question & help / [Discord Server](https://discord.gg/MBTkVcJefp)
+- Other question & help / [Discord Server]([https://discord.gg/MBTkVcJefp](https://discord.gg/kZHtNrRRWq))
 ###### ❌ You cannot use public drivers like mapper because they are old versions. I recommend you to create your own will be the best. 
 - We set Source to not re-use the driver. That's why we let you create it yourself.
     
@@ -38,16 +38,16 @@
 ---
 
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.com/users/971015152298238024">
         <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p> 
  
-### 💬 ・Discord Server | [Cloud Club](https://discord.gg/MBTkVcJefp) 
+ 
 
 
  ### 🛒〢 `PRIVATE CHEAT`
- More Here [Information](https://github.com/Cloud-Official/Product)
+ More Here [Information]((https://github.com/MoonsDeve/Product)
  
 <table>
 <tr>
@@ -76,7 +76,9 @@ A website that I created to introduce myself from start to finish. hope you like
 
 
 
-https://user-images.githubusercontent.com/94861415/207130183-b0d713b1-e450-4efb-bc31-8c9c832032c7.mp4
+https://user-images.githubusercontent.com/120462113/207318533-3b39607c-8050-4ee6-b44c-a95372f33c50.mp4
+
+
 
 
 
